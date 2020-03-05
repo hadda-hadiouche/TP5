@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Etudiants xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Etudiants.xsd">
+
+        <Etudiant>
+              <nom>ZIANE</nom>
+              <prenom>BILAL</prenom>
+              <matricule>Q14M121</matricule>
+              <moyenneS1>15</moyenneS1>
+              <moyenneS2>15</moyenneS2>
+              <credit>60</credit>
+        </Etudiant>
+        
+        <Etudiant>
+              <nom>ZITUONI</nom>
+              <prenom>SOUMIA</prenom>
+              <matricule>Q14M120</matricule>
+              <moyenneS1>10</moyenneS1>
+              <moyenneS2>11</moyenneS2>
+              <credit>60</credit>
+        </Etudiant>
+        
+        <Etudiant>
+              <nom>ZEGHDANE</nom>
+              <prenom>HOUSSAM</prenom>
+              <matricule>Q14M125</matricule>
+              <moyenneS1>6</moyenneS1>
+              <moyenneS2>8</moyenneS2>
+              <credit>35</credit>
+        </Etudiant>
+        
+        <Etudiant>
+              <nom>TALEB</nom>
+              <prenom>ASMA</prenom>
+              <matricule>Q14M152</matricule>
+              <moyenneS1>12</moyenneS1>
+              <moyenneS2>8</moyenneS2>
+              <credit>60</credit>
+        </Etudiant>
+        
+        <Etudiant>
+              <nom>SENANI</nom>
+              <prenom>HAYET</prenom>
+              <matricule>Q14M168</matricule>
+              <moyenneS1>15</moyenneS1>
+              <moyenneS2>10</moyenneS2>
+              <credit>60</credit>
+        </Etudiant>
+        
+        <Etudiant>
+              <nom>TOUAMA</nom>
+              <prenom>YAZID</prenom>
+              <matricule>Q14M142</matricule>
+              <moyenneS1>9</moyenneS1>
+              <moyenneS2>9</moyenneS2>
+              <credit>50</credit>
+        </Etudiant>
+        
+        <Etudiant>
+              <nom>YAHIAOUI</nom>
+              <prenom>IMOHAMED</prenom>
+              <matricule>Q14M136</matricule>
+              <moyenneS1>8</moyenneS1>
+              <moyenneS2>7</moyenneS2>
+              <credit>38</credit>
+        </Etudiant>
+        
+</Etudiants>
